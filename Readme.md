@@ -1,15 +1,12 @@
 Learn Devops 
 
-The Source code is forked from https://github.com/devops-project-samples
-# ASP.NET MVC application
+The Source code is forked from Microsoft Open Source Devops Project Code repository 
+https://github.com/Microsoft/devops-project-samples
 
+Please check the Original repo for any more questions.
+
+# ASP.NET MVC application
 Sample ASP.NET MVC application built using Visual Studio 2017.
 
-## License:
 
-See [License](#)
-
-## Contributing
-
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
