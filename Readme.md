@@ -1,8 +1,6 @@
-| Language | Framework | Platform | Author |
-| -------- | -------- |--------|--------|
-| ASP.NET | .NET Framework | Azure Web App, Virtual Machine| |
+Learn Devops 
 
-
+The Source code is forked from https://github.com/devops-project-samples
 # ASP.NET MVC application
 
 Sample ASP.NET MVC application built using Visual Studio 2017.
